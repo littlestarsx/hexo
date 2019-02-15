@@ -96,3 +96,5 @@ deploy:
   name: littlestarsx
   email: loveshao1113@126.com
   #extend_dirs: [extend directory]
+admin:
+  deployCommand: './hexo-deploy.sh'
